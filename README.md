@@ -5,9 +5,11 @@ In the folder "Data", there are some simulation and practical examples that can 
 
 <!--![COIL20 data set](https://www.cs.columbia.edu/CAVE/software/softlib/gif/20objects.jpg) -->
 
+Figure 1 below shows a comparison of DISC and other algorithms on simulation examples.
 ![2D example](Figs/2D_Compared.jpg)
 Figure 1. Performance of DISC and compared methods on 2D data sets with the class patterns: compounded, rounded, or spiraled.
 
+Figure 2 below shows a comparison of DISC and other algorithms on image examples.
 ![2D example](Figs/images_bar.jpg)
 Figure 2. Clustering accuracy AC (\%) of DISC and state-of-the-art non-network algorithms.
 
