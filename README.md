@@ -8,4 +8,3 @@ Figure 1. Performance of DISC and compared methods on 2D data sets with the clas
 
 ![2D example](Figs/images_bar.jpg)
 
-![2D example](Figs/uci_bar.jpg)
