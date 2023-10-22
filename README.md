@@ -4,6 +4,7 @@ We present Deep Intelligent Spectral Clustering (DISC), a novel algorithm design
 <!--![COIL20 data set](https://www.cs.columbia.edu/CAVE/software/softlib/gif/20objects.jpg) -->
 
 ![2D example](Figs/2D_Compared.jpg)
+Figure 1. Performance of DISC and compared methods on 2D data sets with the class patterns: compounded, rounded, or spiraled.
 
 ![2D example](Figs/images_bar.jpg)
 
